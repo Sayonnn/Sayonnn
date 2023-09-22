@@ -3,6 +3,7 @@
 • 📱 Freelance Mobile App Developer
    - Xamarin Xaml with C# (Native development)
    - Ionic Capacitor with Reactjs (Crossplatform development)
+     
 • 💻 Freelance Web Developer (Html, Css, JavaScript, Reactjs, php with laravel, Bootstrap)
 
 • 💻 Database Management ( Sql - PostgreSQL - Xampp -Access )
