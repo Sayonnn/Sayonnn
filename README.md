@@ -3,9 +3,10 @@
 • 📱 Freelance Mobile App Developer
 
    Xaml Xamarin with C# (Native & Cross-platform development)
+   
    Ionic Capacitor with Reactjs (Native & Cross-platform development)
      
-• 💻 Freelance Web Developer (Html, Css, JavaScript, Reactjs, php with laravel, Bootstrap)
+• 💻 Freelance Web Developer (Html - Css - JavaScript - Reactjs - xml - php with laravel - Bootstrap)
 
 • 💻 Database Management ( Sql - PostgreSQL - Xampp - Access )
 
@@ -13,7 +14,7 @@
 
 • 👀 Interested in Exploring more deeper in Technology
 
-• ✨ Feel free to message me at ✉cascallalaudzion19@gmail.com
+• ✨ Feel free to email me at ✉cascallalaudzion19@gmail.com
 
  
 
