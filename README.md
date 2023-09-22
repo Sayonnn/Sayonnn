@@ -18,7 +18,7 @@
 
       🐾 Sql - mySQL 
 
-• 💻 Programming 
+• 💻 Programming Languages
 
       🐾 Python - C# - Javascript - Visual Basic - C++
 
