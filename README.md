@@ -1,18 +1,26 @@
 • ✨Full-Stack Developer
 
-• 📱 Freelance Mobile App Developer
+• 📱 Freelance Mobile App Developer (Native & Cross-platform development)
 
-      🐾 Xaml Xamarin with C# (Native & Cross-platform development)
+      🐾 Xaml Xamarin - C# 
    
-      🐾 Ionic Capacitor with Reactjs (Native & Cross-platform development)
+      🐾 Ionic Capacitor - Reactjs 
      
-• 💻 Freelance Web Developer (Html - Css - JavaScript - Reactjs - xml - php with laravel - Bootstrap)
+• 💻 Freelance Web Developer 
 
-• 💻 Database Management ( Sql - PostgreSQL - Xampp - Access )
+      🐾 Html - Css - JavaScript - Reactjs - xml - php with laravel - Bootstrap
 
-• 💻 Programming with (Python - C# - Javascript - Visual Basic - C++)
+• 💻 Freelance .NET Developer 
 
-• 👀 Interested in Exploring more deeper in Technology
+      🐾 C# - Visual Basic
+      
+• 💻 Database Management (Xampp - Access)
+
+      🐾 Sql - mySQL 
+
+• 💻 Programming 
+
+      🐾 Python - C# - Javascript - Visual Basic - C++
 
 • ✨ Feel free to email me at ✉cascallalaudzion19@gmail.com
 
