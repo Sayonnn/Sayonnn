@@ -1,8 +1,8 @@
 • ✨Full-Stack Developer
 
 • 📱 Freelance Mobile App Developer
-   - Xamarin Xaml with C# (Native & Cross-platform development)
-   - Ionic Capacitor with Reactjs (Native & Cross-platform development)
+   Xaml Xamarin with C# (Native & Cross-platform development)
+   Ionic Capacitor with Reactjs (Native & Cross-platform development)
      
 • 💻 Freelance Web Developer (Html, Css, JavaScript, Reactjs, php with laravel, Bootstrap)
 
