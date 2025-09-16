@@ -1,40 +1,30 @@
-• ✨Full-Stack Developer
-     
-• 💻 Freelance Web Developer 
-      ⭐ HTML 
-      ⭐ CSS 
-      ⭐ Javascript
-      ⭐ ReactJS
-      ⭐ Typescript
-      ⭐ NodeJS
-      ⭐ ExpressJS
-      ⭐ PHP
-      ⭐ Laravel
-      ⭐ Tailwind
-      ⭐ Bootstrap
-      ⭐ GSAP
-      ⭐ Framer Motion
-      ⭐ ThreeJS
-      ⭐ TensorflowJS
-      ⭐ OpencvJS
+# Hi there 👋, I'm Laudzion Cascalla
 
-• 💻 Freelance .NET Developer 
-      ⭐ C# - Visual Basic
-      
-• 💻 Database Management 
-      ⭐ Sql - mySQL - MongoDB
+I'm a **Full-Stack Developer** with experience in **DevOps, Cloud, System & Server Administration, and Database Management**. I specialize in building scalable web applications and optimizing backend systems.  
 
-• 💻 Programming Languages
-      ⭐ C# - Javascript - Visual Basic - C++
-      
-• 📱 Mobile App Development (Native & Cross-platform development)
-      ⭐ Xaml Xamarin - C# 
-      ⭐ Ionic - Reactjs - React Native
+---
 
-• ✨ Feel free to email me at ✉️laudzioncascalla01@gmail.com
-• ✨ Feel free to Contact me at 📞 09354260878
+## 🔹 Skills
 
+### 💻 Web Development (Full-Stack)
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, Tailwind, Bootstrap, GSAP, Framer Motion, ThreeJS  
+- **Backend:** NodeJS, ExpressJS, NestJS, PHP, Laravel, CodeIgniter  
+- **Full-Stack Frameworks / Stacks:** MERN (MongoDB, Express, React, Node)  
+- **Machine Learning / Computer Vision:** TensorFlowJS, OpenCVJS  
 
- 
+### 💽 Databases
+- SQL, MySQL, PostgreSQL, MongoDB  
 
+### ☁️ DevOps & Administration
+- Cloud Services  
+- System Administration  
+- Server Administration  
+- Database Administration  
 
+---
+
+## 📫 Contact Me
+- Email: [laudzioncascalla01@gmail.com](mailto:laudzioncascalla01@gmail.com)  
+- Phone: 0935-426-0878  
+
+---
