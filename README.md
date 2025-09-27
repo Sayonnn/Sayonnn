@@ -23,7 +23,7 @@ I'm a **Full-Stack Developer** with experience in **DevOps, Cloud, System & Serv
 
 ---
 
-## 📫 Contact Me
+## 📨 Contact Me
 - Email: [laudzioncascalla01@gmail.com](mailto:laudzioncascalla01@gmail.com)  
 - Phone: 0935-426-0878  
 
