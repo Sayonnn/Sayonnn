@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Laudzion Cascalla
+# Hi there 👋, I'm Laud Zion Cascalla
 
 I'm a **Full-Stack Developer** with experience in **DevOps, Cloud, System & Server Administration, and Database Management**. I specialize in building scalable web applications and optimizing backend systems.  
 
