@@ -4,7 +4,7 @@ I'm a **Full-Stack Developer** with experience in **DevOps, Cloud, System & Serv
 
 ---
 
-## 🔹 Skills
+## 🥷 Skills
 
 ### 💻 Web Development (Full-Stack)
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, Tailwind, Bootstrap, GSAP, Framer Motion, ThreeJS  
@@ -12,7 +12,7 @@ I'm a **Full-Stack Developer** with experience in **DevOps, Cloud, System & Serv
 - **Full-Stack Frameworks / Stacks:** MERN (MongoDB, Express, React, Node)  
 - **Machine Learning / Computer Vision:** TensorFlowJS, OpenCVJS  
 
-### 💽 Databases
+### 🗃️ Databases
 - SQL, MySQL, PostgreSQL, MongoDB  
 
 ### ☁️ DevOps & Administration
