@@ -21,7 +21,15 @@ I'm a **Full-Stack Developer** with experience in **DevOps, Cloud, System & Serv
 - Cloud Services  
 - System Administration  
 - Server Administration  
-- Database Administration  
+- Database Administration
+
+### ☁️ Services Offered
+- Wordpress Development   
+- Website Optimizations
+- Code refactoring
+- Server Deployments
+- Server, Database, System, Cloud ( Administration & Management )
+- Automations ( scripts & deployments )
 
 ---
 
