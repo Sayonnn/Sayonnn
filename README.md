@@ -11,8 +11,8 @@ I'm a **Full-Stack Developer** with experience in **DevOps, Cloud, System & Serv
 - **Backend:** NodeJS, ExpressJS, NestJS, PHP, Laravel, CodeIgniter  
 - **Full-Stack Frameworks / Stacks:** MERN (MongoDB, Express, React, Node)  
 - **Machine Learning / Computer Vision:** TensorFlowJS, OpenCVJS
-- **3D Development & Integration:**
-- **AI & Integration:**
+- **3D Development & Integration**
+- **AI & Integration**
 
 ### 🗃️ Databases
 - SQL, MySQL, PostgreSQL, MongoDB  
