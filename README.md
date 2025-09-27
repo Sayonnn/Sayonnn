@@ -23,7 +23,7 @@ I'm a **Full-Stack Developer** with experience in **DevOps, Cloud, System & Serv
 - Server Administration  
 - Database Administration
 
-### ☁️ Services Offered
+### 🛎️ Services Offered
 - Wordpress Development   
 - Website Optimizations
 - Code refactoring
