@@ -1,14 +1,14 @@
 <!-- HEADER -->
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Laud%20Zion%20Cascalla&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:073B41,50:14ACBD,100:26D5E8&height=200&section=header&text=Laud%20Zion%20Cascalla&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Full-Stack+Engineer+%7C+DevOps+Specialist;React+%7C+Next.js+%7C+TypeScript+%7C+PHP;Cloud+Infrastructure+%7C+Performance+Optimization" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=26D5E8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Full-Stack+Engineer+%7C+DevOps+Specialist;React+%7C+Next.js+%7C+TypeScript+%7C+PHP;Cloud+Infrastructure+%7C+Performance+Optimization" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-6366F1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Abu%20Dhabi%2C%20UAE-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Available-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-14ACBD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Abu%20Dhabi%2C%20UAE-26D5E8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Available-42DAEB?style=for-the-badge" />
 </p>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
@@ -101,9 +101,9 @@ const engineer = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-laudzioncascalla01@gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laudzioncascalla01@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-saysensolutions.com-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saysensolutions.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laud-zion-cascalla-42b8982b2/)
+[![Email](https://img.shields.io/badge/Email-laudzioncascalla01@gmail.com-14ACBD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laudzioncascalla01@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-saysensolutions.com-26D5E8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saysensolutions.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-42DAEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laud-zion-cascalla-42b8982b2/)
 
 **📱 Philippines:** 0935-426-0878 | **📱 UAE:** +971 56 136 8894
 
@@ -115,10 +115,10 @@ const engineer = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<img src="https://komarev.com/ghpvc/?username=Sayonnn&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Sayonnn&label=Profile%20Views&color=14ACBD&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 
 <!-- Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,18,16,14,12&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26D5E8,50:14ACBD,100:073B41&height=150&section=footer" />
