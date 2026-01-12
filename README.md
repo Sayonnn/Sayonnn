@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Status-Available-F59E0B?style=for-the-badge" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 </div>
 
@@ -81,7 +81,8 @@ const engineer = {
 </p>
 
 **WordPress:** Custom Plugins · Child Themes · GeneratePress · Elementor  
-**E-Commerce:** WooCommerce · Payment Integration · Houzez · ListingHive
+**E-Commerce:** WooCommerce · Payment Integration · Houzez · ListingHive  
+**Framer CMS:** Content Management · Dynamic Collections · Site Building
 
 ### Specialized
 **Search:** Typesense Search Engine  
@@ -93,52 +94,33 @@ const engineer = {
 
 ## 💼 What I Deliver
 
-<table>
-<tr>
-<td width="50%">
+### 🚀 Full-Stack Development
+**Modern Web Applications** — React, Next.js, TypeScript, PHP, Laravel  
+**E-Commerce Solutions** — Custom WooCommerce stores, payment integration, inventory systems  
+**CMS Development** — WordPress plugins, Framer CMS, headless architectures  
+**API Development** — RESTful APIs, GraphQL endpoints, third-party integrations  
+**Progressive Web Apps** — Offline-first applications with service workers
 
-### Development
-- Full-Stack Web Applications
-- Custom CMS & E-Commerce Solutions
-- Progressive Web Apps (PWA)
-- API Development & Integration
-- Real-time Applications
+### ⚡ Performance & Optimization
+**Core Web Vitals** — 80-95% improvement in page speed and user experience  
+**SEO Optimization** — Technical SEO, structured data, search engine indexing  
+**Database Optimization** — Query tuning, indexing strategies, caching with Redis  
+**Asset Optimization** — Code splitting, lazy loading, bundle size reduction  
+**Frontend Performance** — Advanced React patterns, component optimization
 
-</td>
-<td width="50%">
+### ☁️ DevOps & Infrastructure
+**Cloud Deployment** — AWS, GCP, DigitalOcean, Hetzner, Vultr configuration  
+**CI/CD Pipelines** — GitHub Actions automation, 60% faster deployments  
+**Server Management** — Linux administration, Nginx/Apache optimization  
+**Containerization** — Docker, Docker Compose, orchestration workflows  
+**Monitoring & Security** — Cloudflare WAF, SSL/TLS, DDoS protection, uptime monitoring
 
-### Optimization
-- Core Web Vitals (80-95% improvement)
-- SEO & Performance Tuning
-- Database Query Optimization
-- Code Refactoring & Architecture
-- Asset & Bundle Optimization
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Infrastructure
-- Cloud Deployment & Management
-- CI/CD Pipeline Automation
-- Server Configuration & Hardening
-- Container Orchestration
-- Monitoring & Logging
-
-</td>
-<td width="50%">
-
-### Security
-- SSL/TLS Implementation
-- WAF Configuration & DDoS Protection
-- OAuth2 Authentication Systems
-- Security Audits
-- Backup & Disaster Recovery
-
-</td>
-</tr>
-</table>
+### 🛡️ Security & Reliability
+**Authentication Systems** — OAuth2, JWT, session management, 2FA implementation  
+**Security Hardening** — Server configuration, firewall rules, vulnerability patching  
+**Backup & Recovery** — Automated backups, disaster recovery planning  
+**SSL/TLS Management** — Certificate installation, renewal automation  
+**DDoS Mitigation** — Cloudflare protection, rate limiting, traffic filtering
 
 ---
 
@@ -168,16 +150,12 @@ const engineer = {
 
 ## 🏆 Certifications & Recognition
 
-<div align="center">
-
 | Certification | Recognition |
 |:---|:---|
 | ✅ National Certificate - PHILNITS (Oct 2024) | 🌟 International Recognition - EECSI Thesis |
 | ✅ DICT - Advanced Software Engineering | 🏆 Best Presenter's Award |
 | ✅ DICT - Advanced Cloud Computing | ⭐ Outstanding Student |
 | ✅ INTELLIPAAT - Docker DevOps | 🎓 BSIT Honors Graduate |
-
-</div>
 
 ---
 
@@ -214,7 +192,7 @@ Previous:
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <img src="https://komarev.com/ghpvc/?username=Sayonnn&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile views" />
 
@@ -222,4 +200,4 @@ Previous:
 
 
 <!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,18,16,14,12&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,18,16,14,12&height=150&section=footer" />
