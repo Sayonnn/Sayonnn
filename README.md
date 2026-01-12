@@ -1,21 +1,16 @@
-````html
-<!-- HEADER SECTION -->
+<!-- HEADER -->
 <div align="center">
   
-<!-- Animated Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Laud%20Zion%20Cascalla&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
-<!-- Dynamic Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Web+Developer+%26+SEO+Specialist+%7C+MLOps+Enthusiast;UI+%26+UX+Design+%7C+Performance+Optimization;Server+%2F+Cloud+Administration;SEO+Tuning+%7C+Scalable+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Full-Stack+Engineer+%7C+DevOps+Specialist;React+%7C+Next.js+%7C+TypeScript+%7C+PHP;Cloud+Infrastructure+%7C+Performance+Optimization" alt="Typing SVG" />
 
-<!-- Profile Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Dev%20%26%20SEO-6366F1?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-Enthusiast-10B981?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-UAE%20%7C%20Remote-F59E0B?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Abu%20Dhabi%2C%20UAE-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Available-F59E0B?style=for-the-badge" />
 </p>
 
-<!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
@@ -25,106 +20,74 @@
 ## 👨‍💻 About Me
 
 ```typescript
-const laudZion = {
-    title: "Full-Stack Engineer & DevOps Specialist",
-    location: "Abu Dhabi, UAE 🇦🇪",
-    experience: "4+ years",
+const engineer = {
+    role: "Full-Stack Engineer & DevOps Specialist",
+    location: "Abu Dhabi, UAE",
+    experience: "4+ years in production environments",
     
     expertise: [
-        "Building scalable, high-performance web applications",
-        "Cloud infrastructure & automated deployment pipelines",
-        "System architecture & server optimization",
-        "Performance tuning & SEO hardening",
-        "AI/ML integration & modern web technologies"
+        "Scalable web applications with React, Next.js, TypeScript",
+        "Backend systems: Node.js, PHP, Laravel, GraphQL",
+        "Cloud infrastructure & CI/CD automation",
+        "Performance optimization & SEO (Core Web Vitals 80-95%)",
+        "System administration & security hardening"
     ],
     
-    currentFocus: [
-        "Advanced React patterns & Next.js",
-        "Framer-based UI & interactive experiences",
-        "Kubernetes & container orchestration",
-        "AI-powered applications",
-        "Cloud-native architectures"
-    ],
-    
-    availability: "Open to opportunities & collaborations"
+    currentFocus: ["Next.js 14+", "Framer", "AI Integration", "Cloud Architecture"]
 };
-````
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-</div>
+```
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Tech Stack
 
-### Frontend Development
-
+### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,framer,tailwind,bootstrap,sass,materialui&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,sass,bootstrap,materialui&theme=dark&perline=10" />
 </p>
 
-**Advanced:** React · Next.js · Framer · TypeScript · Tailwind CSS
-**Proficient:** GSAP · Three.js · Framer Motion · Responsive Design · UI/UX Optimization
-
----
+**Core:** React · Next.js · TypeScript · Tailwind CSS  
+**Animation & 3D:** Framer · Framer Motion · GSAP · Three.js  
+**Tools:** Figma · Responsive Design · UI/UX Optimization
 
 ### Backend & APIs
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,codeigniter,graphql,postman&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,graphql,postman&theme=dark&perline=10" />
 </p>
 
-**Advanced:** Node.js · Express · PHP · Laravel
-**Proficient:** RESTful APIs · GraphQL · Microservices · OAuth2 · API Security
+**Expertise:** Node.js · Express · NestJS · PHP · Laravel · CodeIgniter  
+**API Design:** RESTful · GraphQL · OAuth2 · Microservices
 
----
-
-### Database Management
-
+### Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite&theme=dark&perline=10" />
 </p>
 
-**Expertise:** MySQL · PostgreSQL · MongoDB
-**Skills:** Query Optimization · Database Design · Indexing · Data Migration · Redis Caching
+**Skills:** MySQL · PostgreSQL · MongoDB · Redis · Query Optimization · Indexing
 
----
-
-### DevOps & Cloud Infrastructure
-
+### DevOps & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,githubactions,ansible,cloudflare,aws,gcp,digitalocean&theme=dark&perline=11" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,ansible,cloudflare,aws,gcp&theme=dark&perline=10" />
 </p>
 
-**Infrastructure:** Linux/Ubuntu · Docker · Nginx · Apache
-**Cloud Platforms:** AWS · GCP · DigitalOcean · Hetzner · Vultr · Kinsta
-**CI/CD:** GitHub Actions · Automated Deployments · Pipeline Optimization
-**Tools:** Cloudflare (WAF, DNS, SSL) · CloudPanel · Plesk
-
----
+**Infrastructure:** Linux · Docker · Nginx · Apache  
+**Cloud:** AWS · GCP · DigitalOcean · Hetzner · Vultr  
+**CI/CD:** GitHub Actions · Automated Pipelines  
+**Security:** Cloudflare (WAF, SSL, DNS) · Server Hardening
 
 ### CMS & E-Commerce
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=wordpress,woocommerce&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
 </p>
 
-**WordPress:** Custom Plugin Development · Child Themes · GeneratePress · GenerateBlocks · Elementor
-**E-Commerce:** WooCommerce · Payment Gateway Integration · Inventory Management
-**Real Estate:** Houzez · ListingHive · HivePress
+**WordPress:** Custom Plugins · Child Themes · GeneratePress · Elementor  
+**E-Commerce:** WooCommerce · Payment Integration · Houzez · ListingHive
 
----
-
-### Specialized Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ai,threejs,figma,vscode,vim&theme=dark&perline=10" />
-</p>
-
-**Integration:** AI/ML Integration · Typesense Search Engine · Chatbot Development
-**3D & Animation:** Three.js · GSAP · Advanced UI/UX · Framer Interactive UI
-**Tools:** Git Version Control · SEO Optimization · Performance Monitoring · Security Hardening
+### Specialized
+**Search:** Typesense Search Engine  
+**AI/ML:** Integration & Chatbot Development  
+**SEO:** Technical SEO · Core Web Vitals Optimization  
+**Tools:** Git · Performance Monitoring · Security Audits
 
 ---
 
@@ -134,48 +97,44 @@ const laudZion = {
 <tr>
 <td width="50%">
 
-### 🚀 Development
-
-* Full-Stack Web Applications
-* Custom CMS & E-Commerce Solutions
-* Progressive Web Apps (PWA)
-* Real-time Data Applications
-* API Development & Integration
+### Development
+- Full-Stack Web Applications
+- Custom CMS & E-Commerce Solutions
+- Progressive Web Apps (PWA)
+- API Development & Integration
+- Real-time Applications
 
 </td>
 <td width="50%">
 
-### ⚡ Optimization
-
-* Performance Tuning (Core Web Vitals)
-* SEO & Search Engine Optimization
-* Code Refactoring & Clean Architecture
-* Database Query Optimization
-* Asset & Bundle Optimization
+### Optimization
+- Core Web Vitals (80-95% improvement)
+- SEO & Performance Tuning
+- Database Query Optimization
+- Code Refactoring & Architecture
+- Asset & Bundle Optimization
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### ☁️ Infrastructure
-
-* Cloud Architecture & Deployment
-* Server Configuration & Hardening
-* Automated CI/CD Pipelines
-* Container Orchestration
-* Monitoring & Logging Solutions
+### Infrastructure
+- Cloud Deployment & Management
+- CI/CD Pipeline Automation
+- Server Configuration & Hardening
+- Container Orchestration
+- Monitoring & Logging
 
 </td>
 <td width="50%">
 
-### 🛡️ Security & Reliability
-
-* SSL/TLS Implementation
-* WAF Configuration & DDoS Mitigation
-* Backup & Disaster Recovery
-* Security Audits & Penetration Testing
-* OAuth2 & Authentication Systems
+### Security
+- SSL/TLS Implementation
+- WAF Configuration & DDoS Protection
+- OAuth2 Authentication Systems
+- Security Audits
+- Backup & Disaster Recovery
 
 </td>
 </tr>
@@ -183,7 +142,7 @@ const laudZion = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -201,12 +160,6 @@ const laudZion = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sayonnn&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayonnn&custom_title=Contribution%20Activity&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=6366F1&area=true&hide_border=true" />
 
 </div>
@@ -217,12 +170,12 @@ const laudZion = {
 
 <div align="center">
 
-| 🎓 Certification                                 | 🏅 Recognition                              |
-| :----------------------------------------------- | :------------------------------------------ |
-| ✅ **National Certificate - PHILNITS** (Oct 2024) | 🌟 International Recognition - EECSI Thesis |
-| ✅ **DICT - Advanced Software Engineering**       | 🏆 Best Presenter's Award                   |
-| ✅ **DICT - Advanced Cloud Computing**            | ⭐ Outstanding Student                       |
-| ✅ **INTELLIPAAT - Docker DevOps**                |                                             |
+| Certification | Recognition |
+|:---|:---|
+| ✅ National Certificate - PHILNITS (Oct 2024) | 🌟 International Recognition - EECSI Thesis |
+| ✅ DICT - Advanced Software Engineering | 🏆 Best Presenter's Award |
+| ✅ DICT - Advanced Cloud Computing | ⭐ Outstanding Student |
+| ✅ INTELLIPAAT - Docker DevOps | 🎓 BSIT Honors Graduate |
 
 </div>
 
@@ -232,39 +185,34 @@ const laudZion = {
 
 ```yaml
 Current: Web Developer / DevOps Engineer @ OctaGorilla Co., Ltd
-  - Improved system uptime & performance by 40% through architecture refactoring
-  - Reduced deployment time by 60% with GitHub Actions CI/CD pipelines
-  - Boosted Core Web Vitals by 80-95% through frontend optimization
-  - Increased team productivity by 80% through mentorship & best practices
+  - Improved system performance by 40% through backend refactoring
+  - Reduced deployment time by 60% with GitHub Actions CI/CD
+  - Boosted Core Web Vitals by 80-95% through optimization
+  - Increased team productivity by 80% through mentorship
   
 Previous: 
-  - Full Stack Developer @ OctaHexa Media LLC
-  - Tech Lead @ BSU ICT Services
-  - Cloud Engineer & Full-Stack Developer (Freelance)
+  - Junior Web Developer @ OctaHexa Media LLC
+  - Full Stack Developer / Tech Lead @ BSU ICT Services
+  - Freelance Web Developer & Cloud Engineer (2022-2024)
 ```
 
 ---
 
-## 📬 Let's Connect
+## 📬 Contact
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-laudzioncascalla01%40gmail.com-6366F1?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:laudzioncascalla01@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-saysensolutions.com-10B981?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://saysensolutions.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/laud-zion-cascalla-42b8982b2/)
+[![Email](https://img.shields.io/badge/Email-laudzioncascalla01@gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laudzioncascalla01@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-saysensolutions.com-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saysensolutions.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laud-zion-cascalla-42b8982b2/)
 
-<br>
-
-**📱 Phone (PH):** 0935-426-0878
-**📱 Phone (UAE):** +971 56 136 8894
+**📱 Philippines:** 0935-426-0878 | **📱 UAE:** +971 56 136 8894
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💡 "Code with purpose. Build with precision. Deploy with confidence."
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -272,7 +220,6 @@ Previous:
 
 </div>
 
-<!-- Animated Footer Wave -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" />
-```
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,18,16,14,12&height=150&section=footer" />
