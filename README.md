@@ -1,41 +1,89 @@
-# Hi there 👋, I'm Laud Zion Cascalla
+<!-- HEADER -->
+<h1 align="center">
+  Laud Zion Cascalla
+</h1>
 
-I'm a **Full-Stack Developer** with experience in **DevOps, Cloud, System & Server Administration, and Database Management**. I specialize in building scalable web applications and optimizing backend systems.  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=900&color=4F46E5&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;DevOps+%7C+Cloud+%7C+Automation;System+%26+Server+Administrator;Building+Production-Grade+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656950-0d92c0c4-bb8c-4f4a-b4d8-0c8b5cb40f14.gif" width="420" />
+</p>
 
 ---
 
-## 🥷 Skills
+## 🚀 Profile Summary
 
-### 💻 Web Development (Full-Stack)
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, Tailwind, Bootstrap, GSAP, Framer Motion, ThreeJS  
-- **Backend:** NodeJS, ExpressJS, NestJS, PHP, Laravel, CodeIgniter  
-- **Full-Stack Frameworks / Stacks:** MERN (MongoDB, Express, React, Node)  
-- **Machine Learning / Computer Vision:** TensorFlowJS, OpenCVJS
-- **3D Development & Integration**
-- **AI & Integration**
+I’m a **Full-Stack Engineer & DevOps Specialist** focused on building **scalable, secure, and high-performance systems**.
+
+My work spans:
+- **Modern frontend architectures**
+- **Robust backend systems**
+- **Cloud infrastructure & automation**
+- **Production deployments & optimization**
+
+> I actively explore **AI integration**, **CI/CD automation**, and **DevOps best practices** to deliver future-ready solutions.
+
+---
+
+## 🥷 Core Expertise
+
+### 💻 Frontend Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,gsap,threejs&perline=6" />
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,mysql,mongodb&perline=6" />
+</p>
 
 ### 🗃️ Databases
-- SQL, MySQL, PostgreSQL, MongoDB  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6" />
+</p>
 
-### ☁️ DevOps & Administration
-- Cloud Services  
-- System Administration  
-- Server Administration  
-- Database Administration
-
-### 🛎️ Services Offered
-- Wordpress Development   
-- Website Optimizations
-- Code refactoring
-- Server Deployments
-- Server, Database, System, Cloud ( Administration & Management )
-- Automations ( scripts & deployments )
+### ☁️ DevOps · Cloud · Infra
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,aws,gcp,cloudflare,githubactions&perline=6" />
+</p>
 
 ---
 
-## 📨 Contact Me
-- Email: [laudzioncascalla01@gmail.com](mailto:laudzioncascalla01@gmail.com)  
-- PH Phone: 0935-426-0878
-- UAE Phone;: +971 56 136 8894
+## 🛠️ What I Deliver
+
+- 🚀 Full-Stack Web Applications  
+- ⚡ Performance Optimization & SEO  
+- 🧹 Code Refactoring & Technical Debt Cleanup  
+- 🖥️ Server & Cloud Deployments  
+- ☁️ Cloud · Server · Database · System Administration  
+- 🤖 Automation (CI/CD, Scripts, Deploy Pipelines)  
+- 🧠 AI Integration & Intelligent Features  
 
 ---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayonnn&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayonnn&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayonnn&theme=tokyonight"/>
+</p>
+
+---
+
+## 📨 Contact
+
+📧 **Email:** [laudzioncascalla01@gmail.com](mailto:laudzioncascalla01@gmail.com)  
+📱 **PH:** 0935-426-0878  
+🇦🇪 **UAE:** +971 56 136 8894  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=110&section=footer"/>
+</p>
