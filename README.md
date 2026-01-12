@@ -84,65 +84,32 @@ const engineer = {
 **E-Commerce:** WooCommerce · Payment Integration · Houzez · ListingHive  
 **Framer CMS:** Content Management · Dynamic Collections · Site Building
 
-### Specialized
-**Search:** Typesense Search Engine  
-**AI/ML:** Integration & Chatbot Development  
-**SEO:** Technical SEO · Core Web Vitals Optimization  
-**Tools:** Git · Performance Monitoring · Security Audits
-
----
-
-## 💼 What I Deliver
-
-### 🚀 Full-Stack Development
-**Modern Web Applications** — React, Next.js, TypeScript, PHP, Laravel  
-**E-Commerce Solutions** — Custom WooCommerce stores, payment integration, inventory systems  
-**CMS Development** — WordPress plugins, Framer CMS, headless architectures  
-**API Development** — RESTful APIs, GraphQL endpoints, third-party integrations  
-**Progressive Web Apps** — Offline-first applications with service workers
-
-### ⚡ Performance & Optimization
-**Core Web Vitals** — 80-95% improvement in page speed and user experience  
-**SEO Optimization** — Technical SEO, structured data, search engine indexing  
-**Database Optimization** — Query tuning, indexing strategies, caching with Redis  
-**Asset Optimization** — Code splitting, lazy loading, bundle size reduction  
-**Frontend Performance** — Advanced React patterns, component optimization
-
-### ☁️ DevOps & Infrastructure
-**Cloud Deployment** — AWS, GCP, DigitalOcean, Hetzner, Vultr configuration  
-**CI/CD Pipelines** — GitHub Actions automation, 60% faster deployments  
-**Server Management** — Linux administration, Nginx/Apache optimization  
-**Containerization** — Docker, Docker Compose, orchestration workflows  
-**Monitoring & Security** — Cloudflare WAF, SSL/TLS, DDoS protection, uptime monitoring
-
-### 🛡️ Security & Reliability
-**Authentication Systems** — OAuth2, JWT, session management, 2FA implementation  
-**Security Hardening** — Server configuration, firewall rules, vulnerability patching  
-**Backup & Recovery** — Automated backups, disaster recovery planning  
-**SSL/TLS Management** — Certificate installation, renewal automation  
-**DDoS Mitigation** — Cloudflare protection, rate limiting, traffic filtering
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sayonnn&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />
+<table>
+<tr>
+<td width="50%">
 
-<img height="180em" src="https://streak-stats.demolab.com?user=Sayonnn&theme=react&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sayonnn&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&border_radius=10" width="100%" />
 
-</div>
+</td>
+<td width="50%">
 
-<div align="center">
+<img src="https://streak-stats.demolab.com?user=Sayonnn&theme=react&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&border_radius=10" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayonnn&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" />
+</td>
+</tr>
+</table>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayonnn&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&langs_count=8&border_radius=10" />
 
-<div align="center">
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayonnn&custom_title=Contribution%20Activity&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=6366F1&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayonnn&custom_title=Contribution%20Activity&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=6366F1&area=true&hide_border=true&radius=10" width="100%" />
 
 </div>
 
@@ -156,23 +123,6 @@ const engineer = {
 | ✅ DICT - Advanced Software Engineering | 🏆 Best Presenter's Award |
 | ✅ DICT - Advanced Cloud Computing | ⭐ Outstanding Student |
 | ✅ INTELLIPAAT - Docker DevOps | 🎓 BSIT Honors Graduate |
-
----
-
-## 💼 Career Highlights
-
-```yaml
-Current: Web Developer / DevOps Engineer @ OctaGorilla Co., Ltd
-  - Improved system performance by 40% through backend refactoring
-  - Reduced deployment time by 60% with GitHub Actions CI/CD
-  - Boosted Core Web Vitals by 80-95% through optimization
-  - Increased team productivity by 80% through mentorship
-  
-Previous: 
-  - Junior Web Developer @ OctaHexa Media LLC
-  - Full Stack Developer / Tech Lead @ BSU ICT Services
-  - Freelance Web Developer & Cloud Engineer (2022-2024)
-```
 
 ---
 
