@@ -21,7 +21,7 @@
 
 ```typescript
 const engineer = {
-    role: "Full-Stack Engineer & DevOps Specialist",
+    role: "Web Developer & DevOps Enthusiasts",
     location: "Abu Dhabi, UAE",
     experience: "4+ years in production environments",
     
@@ -29,11 +29,11 @@ const engineer = {
         "Scalable web applications with React, Next.js, TypeScript",
         "Backend systems: Node.js, PHP, Laravel, GraphQL",
         "Cloud infrastructure & CI/CD automation",
-        "Performance optimization & SEO (Core Web Vitals 80-95%)",
+        "Performance optimization & SEO",
         "System administration & security hardening"
     ],
     
-    currentFocus: ["Next.js 14+", "Framer", "AI Integration", "Cloud Architecture"]
+    currentFocus: ["AI Integration", "Animations", "DevOps Automation", "Cloud & Servers"]
 };
 ```
 
@@ -102,7 +102,6 @@ const engineer = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-laudzioncascalla01@gmail.com-14ACBD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laudzioncascalla01@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-saysensolutions.com-26D5E8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saysensolutions.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-42DAEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laud-zion-cascalla-42b8982b2/)
 
 **📱 Philippines:** 0935-426-0878 | **📱 UAE:** +971 56 136 8894
