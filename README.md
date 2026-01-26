@@ -122,6 +122,6 @@ const engineer = {
 <!-- Animated Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26D5E8,50:14ACBD,100:073B41&height=150&section=footer" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayonnn&show_icons=true&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com?user=Sayonnn)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sayonnn)
+>![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayonnn&show_icons=true&theme=default)
+>![GitHub Streak](https://streak-stats.demolab.com?user=Sayonnn)
+>![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sayonnn)
